@@ -1,0 +1,22 @@
+[
+  {
+    "name": "song-1",
+    "displayName": "Faded",
+    "artist": "Alan Walker"
+  },
+  {
+    "name": "song-2",
+    "displayName": "Photograph",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "name": "song-3",
+    "displayName": "Love Yourself",
+    "artist": "Justin Beiber"
+  },
+  {
+    "name": "song-4",
+    "displayName": "It Ain't Me",
+    "artist": "Selena Gomez"
+  }
+]
